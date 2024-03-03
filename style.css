@@ -1,0 +1,42 @@
+* {
+    font-family: "Noto Sans", sans-serif !important;
+  }
+  
+  .jumbotron {
+    padding-top: 7rem;
+    background-color: #171717;
+  }
+  
+  #about {
+    padding-top: 5rem;
+    background-color: #f3f4f5;
+  }
+  
+  #gallery {
+    padding-top: 10rem;
+    background-color: #171717;
+    color: #f3f4f5;
+  }
+  .card {
+    background-color: #171717;
+  }
+  
+  .display-4 {
+    color: #f3f4f5;
+  }
+  .lead {
+    color: #f3f4f5;
+  }
+  
+  .col-md-4 {
+    color: #171717;
+  }
+  #contact {
+    padding-top: 5rem;
+    background-color: #f3f4f5;
+  }
+  footer {
+    background-color: #171717;
+    color: #f3f4f5;
+  }
+  
