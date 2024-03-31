@@ -1,0 +1,14 @@
+{
+  "name": "danielganteng123",
+  "version": "1.0.0",
+  "description": "- 🌱 I’m currently learning git and github\r - 📫 How to reach me: ig:daniel_gultom047\r - 😄 Pronouns: he/him\r - ⚡ Fun fact: i love playing valorant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
